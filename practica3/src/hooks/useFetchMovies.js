@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 //Clave de API para acceder a OMDb
-export const API_KEY = "a919a0f56yjj";
+export const API_KEY = "a919a0f5";
 
 /** 
  * Hook personalizado para obtener películas desde la API de OMDb. 
